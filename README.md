@@ -10,3 +10,6 @@ Collection of problems from my University subject. (I'll search the file)
 ### Tutorial
 Haskell tutorial from [here](http://learnyouahaskell.com/)
 
+## WhatIAmDoingInUniversity
+This repository is part of a list of [University projects](https://github.com/jorge-sanz/WhatIAmDoingInUniversity).
+
